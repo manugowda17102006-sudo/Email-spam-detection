@@ -8,7 +8,7 @@ A frontend web project created using:
 
 ## 🚀 Live Project
 
-👉 [Click Here to View Live Project](https://codepen.io/Yashu-the-scripter/pen/XJNKKEq)
+👉 [Click Here to View Live Project](https://email-spam-d-etections-x99j.vercel.app/)
 
 ## 📌 Features
 
@@ -22,7 +22,10 @@ A frontend web project created using:
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
+- css
+- javascript
+- versel.json
+  
 - JavaScript
 
 ## 👨‍💻 Project Author
